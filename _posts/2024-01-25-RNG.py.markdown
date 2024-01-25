@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to Aiden's Website!"
+date:   2024-01-22 18:49:33 -0500
+---
+---
+This is the link to the Random Number Generator with GUI that I created in python to learn more about how to use tkinter:
+[Python Random Number Generator](https://github.com/thatguy2014/Python-RNG-w-gui/tree/main){:target="_blank"}{:rel="noopener noreferrer"}
