@@ -5,4 +5,9 @@ date:   2024-01-25 17:27:00 -0500
 ---
 ---
 This is the link to the Random Number Generator with GUI that I created in python to learn more about how to use tkinter:
-[Python Random Number Generator](https://github.com/thatguy2014/Python-RNG-w-gui/tree/main){:target="_blank"}{:rel="noopener noreferrer"}
+
+[Python Random Number Generator](https://github.com/thatguy2014/Python-RNG-w-gui/tree/main){:target="_blank"}{:rel="noopener noreferrer"} 
+
+This is the first time I've had to use python with most of my experience being with html and C++ so it was a great learning experience. It only took me about two days between schoolwork in order to finish this short little program. 
+
+This project taught me how to use python and tkinter and how painful it can be to work with even a simple GUI.
