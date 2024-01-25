@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Aiden's Website!"
-date:   2024-01-22 18:49:33 -0500
+title:  "Random Number Generator In Python with built-in GUI"
+date:   2024-01-25 17:27:00 -0500
 ---
 ---
 This is the link to the Random Number Generator with GUI that I created in python to learn more about how to use tkinter:
