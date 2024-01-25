@@ -7,7 +7,7 @@ permalink: /about/
 
 ![Aiden Tallet](/assets/AidenWoods.jpg){: width="230" style="float: left; margin-right: 20px;"}
 
-Hello! My name is Aiden Tallet and I am currently a Computer Science student at Ohio Northern University. 
+Hello! My name is Aiden Tallet and I am currently a Computer Science student at Ohio Northern University. You can find my LinkedIn [here](https://www.linkedin.com/in/aiden-tallet/){:target="_blank"}{:rel="noopener noreferrer"}
 
 I am on track to graduate with my Bachelors of Science a year early with a concentration in cybersecurity. This has required me to take 18 or more credit hours each semester, sometimes getting as high as 22 credits a semester.
 
