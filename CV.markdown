@@ -13,6 +13,7 @@ permalink: /curriculum_vitae/
 
 <h2>Certifications</h2>{:style="border-bottom:solid 2px;"}
 1. <b>CompTIA Security+</b> - working to complete in 06/2024
+2. <b>Responsible Conduct of Research For Engineers | CITI</b>  - 02/2024
 
 
 
